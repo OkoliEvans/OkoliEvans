@@ -9,6 +9,6 @@ My name is **Evans**, I'm learning Solidity, Foundry, Cairo and Typescript
 - :speech_bubble: Ask me about interesting things, and not just codes 
 - :mailbox: How to reach me: [@OkoliEvans](https://twitter.com/OkoliEvans)
 - :smile: Pronouns: He/His
-- :zap: Fun fact:  - :blank_face:
+- :zap: Fun fact:  - :gratitude:
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
