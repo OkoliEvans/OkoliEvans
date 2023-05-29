@@ -3,7 +3,7 @@
 
 My name is **Evans**, I'm learning Solidity, Foundry, Cairo and Typescript
 
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=OkoliEvans&show_icons=true&theme=radical)
+![Anurag’s GitHub stats]<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 
 - :telescope: I’m currently working on amazing Web3 infrastructures
 - :seedling: I’m currently learning new fun things and keeping up to date with the Web3 space
