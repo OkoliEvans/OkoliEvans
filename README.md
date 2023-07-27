@@ -1,7 +1,7 @@
 ### Hello there :wave:
 ### Welcome to my page 🤗
 
-My name is **Evans**, I'm learning Solidity, Foundry, Cairo and Typescript
+My name is **Evans**, I'm learning Solidity, Rust, Cairo and Typescript
 
 - :telescope: I’m currently working on amazing Web3 infrastructures
 - :seedling: I’m currently learning new fun things and keeping up to date with the Web3 space
