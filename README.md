@@ -3,8 +3,8 @@
 
 My name is **Evans**, I'm learning Solidity, Rust, Cairo and Typescript
 
-- :telescope: I’m currently working on amazing Web3 infrastructures
-- :seedling: I’m currently learning new fun things and keeping up to date with the Web3 space
+- :telescope: I’m currently building amazing Web3 infrastructures on Starknet
+- :seedling: I’m currently learning new fun things and hoping to eventually start that swimming lesson
 - :dancers: I’m looking to collaborate on all sort of interesting projects in Web3
 - :speech_bubble: Ask me about interesting things, and not just codes 
 - :mailbox: How to reach me: [@OkoliEvans](https://twitter.com/OkoliEvans)
