@@ -28,6 +28,8 @@ jobs:
             followers
             stars
             traffic
+          plugin_embed: yes  # Enable Metrics Embed
+          plugin_embed_svg_action: "https://github.com/marketplace/actions/metrics-embed"
 
       - name: Commit and push
         run: |
