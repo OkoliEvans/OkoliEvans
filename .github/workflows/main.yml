@@ -25,10 +25,14 @@ jobs:
           plugin_notable: yes
           plugin_notable_repositories: yes  # Show notable repositories
           plugin_notable_from: all  # Fetch from all public & private repositories
-          plugin_notable_indepth: yes
+          plugin_notable_indepth: no
           
           plugin_contributors: yes
           plugin_contributors_sections: repositories, commits
+
+          plugin_repositories: yes
+          plugin_repositories_featured: all
+
 
 
           plugin_languages: yes
