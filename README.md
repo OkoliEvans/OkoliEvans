@@ -1,1 +1,3 @@
-![Metrics](https://github.com/OkoliEvans/okolievans/blob/master/github-metrics.svg)
+## 📊 My GitHub Stats
+
+![Metrics](https://github.com/OkoliEvans/OkoliEvans/blob/main/github-metrics.svg)
